@@ -59,6 +59,6 @@ ToolsGarage is open source and available under the [MIT License](LICENSE). Feel 
 
 If you have any questions or suggestions, feel free to reach out to us:
 
-- ianshulgora@gmail.com
+- anuragbasu039@gmail.com
 
 Thank you for using ToolsGarage! We hope you find it useful. :rocket:
