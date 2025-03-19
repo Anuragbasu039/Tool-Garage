@@ -20,7 +20,7 @@ export default function Contributers() {
               className="card-img-top rounded-circle contributer-img m-auto "
             />
             <div className="card-body">
-              <h4>Anshul Gora</h4>
+              <h4>Anurag Bose</h4>
               <p className="card-text">Frontend Developer</p>
               {/* <a
                 href="https://www.linkedin.com/in/anshul-gora"
@@ -40,7 +40,7 @@ export default function Contributers() {
               alt="Avatar"
               className="card-img-top rounded-circle contributer-img m-auto"
             />
-            <div className="card-body">
+            {/* <div className="card-body">
               <h4>Aryan Mishra</h4>
               <p className="card-text">Frontend Developer</p>
               <a
@@ -50,7 +50,7 @@ export default function Contributers() {
               >
                 LinkedIn <i class="fa-solid fa-arrow-up-right-from-square"></i>
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
